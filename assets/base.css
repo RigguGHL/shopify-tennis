@@ -3608,6 +3608,18 @@ details-disclosure>details {
   display: block;
 }
 
+@media screen and (min-width:990px) {
+  #shopify-section-template--16468881801299__slideshow_ArnmhV {
+    display: inline-block;
+    width: 36%;
+  }
+
+  #shopify-section-template--16468881801299__featured_collection_X9xFBh {
+    display: inline-block;
+    width: 64%;
+  }
+}
+
 @keyframes indeterminateAnimation {
   0% {
     transform: translateX(-20%) scaleX(0);
