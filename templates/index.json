@@ -36,7 +36,7 @@
         "button"
       ],
       "custom_css": [
-        ".banner__heading>strong {color: #cbe346;}"
+        ".banner__heading > strong {color: #cbe346;}"
       ],
       "settings": {
         "image": "shopify://shop_images/group.png",
@@ -95,7 +95,10 @@
         "slide_TkbEFF",
         "slide_q9x9Ag"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".slideshow__text {background: transparent; padding-left: 200px; padding-top: 0; color: white;}",
+        ".banner__heading {color: white}"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
