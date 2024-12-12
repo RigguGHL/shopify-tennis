@@ -56,10 +56,11 @@
         "slide_TkbEFF": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify://shop_images/ball-color-court-1405355.png",
+            "heading": "Nuestras <strong>Raquetas</strong>",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "Conoce nuestras raquetas y aprende a jugar Tennis cómo un profesional.",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -95,7 +96,7 @@
       "custom_css": [],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "small",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
