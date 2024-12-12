@@ -47,8 +47,6 @@
   border-radius: var(--border-radius);
   border: var(--border-width) solid rgba(var(--color-foreground), var(--border-opacity));
   background-color: transparent;
-  height: 344px;
-  width: 288px;
 }
 
 .card--card:after,
