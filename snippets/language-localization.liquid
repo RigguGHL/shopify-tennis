@@ -22,10 +22,10 @@
           >
             <span
               {% if language.iso_code == localization.language.iso_code %}
-                class="header__active-menu-item"
+                class="header__active-menu-localization"
               {% endif %}
             >
-              {{ language.endonym_name | capitalize }}
+              {{ language.iso_code | upcase }}
             </span>
           </a>
         </li>
