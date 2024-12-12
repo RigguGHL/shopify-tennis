@@ -448,6 +448,10 @@
   margin-bottom: 0;
 }
 
+.banner__heading>strong {
+  color: #cbe346;
+}
+
 .banner__box .banner__heading+* {
   margin-top: 1rem;
 }
