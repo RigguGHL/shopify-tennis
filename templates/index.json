@@ -136,7 +136,8 @@
       ],
       "custom_css": [
         ".slideshow__text {background: transparent; padding-left: 200px; padding-top: 0; color: white; text-align: left;}",
-        ".banner__heading {color: white;}"
+        ".banner__heading {color: white;}",
+        ".slider-mobile-gutter {height: 468px;}"
       ],
       "settings": {
         "layout": "full_bleed",
