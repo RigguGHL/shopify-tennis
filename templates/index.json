@@ -108,8 +108,8 @@
       "type": "featured-collection",
       "custom_css": [],
       "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
